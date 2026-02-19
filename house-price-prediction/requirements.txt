@@ -1,0 +1,13 @@
+# Data Manipulation
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Interactive Environment
+jupyter
