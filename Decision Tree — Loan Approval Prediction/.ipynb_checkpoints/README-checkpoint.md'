@@ -1,0 +1,25 @@
+# Decision Tree — Loan Approval Prediction
+
+This project predicts whether a loan application will be approved or rejected using a Decision Tree classifier.
+
+## Features
+- Data preprocessing
+- Handling missing values
+- Encoding categorical variables
+- Feature scaling
+- Model training using Decision Tree
+- Model evaluation
+- Saving trained model
+
+## Target
+Loan_Status (Approved / Rejected)
+
+## How to Run
+
+1. Install dependencies:
+
+pip install -r requirements.txt
+
+2. Run notebook:
+
+jupyter notebook notebook/loan_approval_decision_tree.ipynb
